@@ -34,7 +34,7 @@ public class Explorer {
             String defendersStr = attackers == null ? "n/a" : Integer.toString(attackers);
 
             // String representation of the total of participants
-            String total = (attackers == null || defenders == null) ? "n/a" : "" + attackers + defenders;
+            String total = (attackers == null || defenders == null) ? "n/a" : Integer.toString(attackers + defenders);
 
             format = "%-35s %-10s %-10s %-10s\n";
             System.out.printf(format, battleName, attackersStr, defendersStr, total);
