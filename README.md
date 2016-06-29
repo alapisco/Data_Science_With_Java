@@ -1,5 +1,6 @@
 # Intro To Data Science With Java
-A repository containing source code and slides of the topics covered by the Intro to Data Science tech talk at Campus Party , June- 29 -20016
+A repository containing source code and slides of the topics covered by the Intro to Data Science With Java
+tech talk at Campus Party Guadalajara, June-29-20016
 
 Dataset source:
 
